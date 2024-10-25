@@ -11,11 +11,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravshinde007&label=Profile%20views&color=0e75b6&style=flat" alt="sauravshinde007" /> </p>
 
 - 🌱 I’m currently learning **LOVE 2D, C++, Java, LUA and DSA**
-
 - 👨‍💻 All of my socials [https://linktr.ee/sauravshinde](https://linktr.ee/sauravshinde)
-
 - 📫 How to reach me **sauravshinde.000@gmail.com**
-
 - ⚡ Fun fact **Python was not named after a snake**
 
 <h3 align="left">Connect with me:</h3>
