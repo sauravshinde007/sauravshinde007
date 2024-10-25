@@ -24,6 +24,7 @@
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
 [![24 Hours of GameJam (Hackathon)](https://ytcards.demolab.com/?id=reFqOd-RNSo&title=24+Hours+of+GameJam+(Hackathon)&lang=en&timestamp=1729498589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "24 Hours of GameJam (Hackathon)")](https://www.youtube.com/watch?v=reFqOd-RNSo)
+[![Updated Version of my game "BUGS" 🎮)](https://ytcards.demolab.com/?id=0VKMxR8uCxE&title=Updated+Version+of+my+game+"BUGS"+🎮&lang=en&timestamp=1715415389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Updated Version of my game BUGS 🎮")](https://www.youtube.com/watch?v=0VKMxR8uCxE)
 
 <!-- END YOUTUBE-CARDS -->
 
