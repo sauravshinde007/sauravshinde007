@@ -1,10 +1,11 @@
 
-# Saurav-Shinde
+# Hello I'm Saurav-Shinde 🙋‍♂️
 
-- 🌱 I’m currently learning **LOVE 2D, C++, Java, LUA and DSA**
-- 👨‍💻 All of my socials [https://linktr.ee/sauravshinde](https://linktr.ee/sauravshinde)
-- 📫 How to reach me **sauravshinde.000@gmail.com**
-- ⚡ Fun fact **Python was not named after a snake**
+- 🌱 Software Engineer who is documenting and sharing his learnings in tech.
+- 👨‍💻 Studying Information Technology at Pune Institute Of Computer Technology.
+- 📚 Currently learing DSA, Game Development, Web Development and designs.
+- 🎮 Making games, designs, and web apps.
+- 🎥 Creating content on gamedev, dailylife and tech.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
