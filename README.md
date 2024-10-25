@@ -3,9 +3,9 @@
 
 - 🌱 Software Engineer who is documenting and sharing his learnings in tech.
 - 👨‍💻 Studying Information Technology at Pune Institute Of Computer Technology.
-- 📚 Currently learing DSA, Game Development, Web Development and designs.
+- 📚 Currently learning DSA, Game Development, Web Development, and designs.
 - 🎮 Making games, designs, and web apps.
-- 🎥 Creating content on gamedev, dailylife and tech.
+- 🎥 Creating content on game-dev, daily life and tech.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
