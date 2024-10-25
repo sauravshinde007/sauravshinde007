@@ -17,6 +17,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sauravshinde007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 💻 Featured Content
+[![5 things I wish I knew before studying Computer Science]()
+
 ---
 [![](https://visitcount.itsvg.in/api?id=sauravshinde007&icon=0&color=0)](https://visitcount.itsvg.in)
 
