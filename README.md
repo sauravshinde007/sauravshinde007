@@ -1,15 +1,6 @@
 
 # Saurav-Shinde
 
-![logo](https://github.com/sauravshinde007/sauravshinde007/blob/main/final%20linkedin%20thumbnail.png)
-
-<h1 align="center">Hello Folks 🙌, how are you?</h1>
-<h3 align="center">A passionate progammer 💻</h3>
-
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravshinde007&label=Profile%20views&color=0e75b6&style=flat" alt="sauravshinde007" /> </p>
-
 - 🌱 I’m currently learning **LOVE 2D, C++, Java, LUA and DSA**
 - 👨‍💻 All of my socials [https://linktr.ee/sauravshinde](https://linktr.ee/sauravshinde)
 - 📫 How to reach me **sauravshinde.000@gmail.com**
