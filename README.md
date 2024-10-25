@@ -2,7 +2,7 @@
 # Hello I'm Saurav-San 🙋‍♂️
 
 - 🌱 Software Engineer who is documenting and sharing his learnings in tech.
-- 👨‍💻 Studying Information Technology at Pune Institute Of Computer Technology.
+- 👨‍💻 Studying [Information Technology](https://pict.edu/) at Pune Institute Of Computer Technology.
 - 📚 Currently learning DSA, Game Development, Web Development, and designs.
 - 🎮 Making games, designs, and web apps.
 - 🎥 Creating content on game-dev, daily life and tech.
