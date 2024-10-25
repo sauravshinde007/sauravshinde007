@@ -1,5 +1,9 @@
 # 💫 Hello I'm Saurav 🙋🏽‍♂️:
-- 🌱 Software Engineer who is documenting and sharing his learnings in tech.<br>- 👨‍💻 Studying Information Technology at [Pune Institute Of Computer Technology](https://pict.edu/).<br>- 📚 Currently learning DSA, Game Development, Web Development, and designs.<br>- 🎮 Making games, designs, and web apps.<br>- 🎥 Creating [content](https://www.youtube.com/@casualotaku123) on game-dev, daily life and tech.
+- 🌱 Software Engineer who is documenting and sharing his learnings in tech.<be>
+- 👨‍💻 Studying Information Technology at [Pune Institute Of Computer Technology](https://pict.edu/).<be>
+- 📚 Currently learning DSA, Game Development, Web Development, and designs.<be>
+- 🎮 Making games, designs, and web apps.<be>
+- 🎥 Creating [content](https://www.youtube.com/@casualotaku123) on game-dev, daily life and tech.
 
 
 ## 🌐 Socials:
