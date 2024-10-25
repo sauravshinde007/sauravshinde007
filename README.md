@@ -7,7 +7,7 @@
 - 🎮 Making games, designs, and web apps.
 - 🎥 Creating content on game-dev, daily life and tech.
 
-  [![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravshinde007)](https://github.com/sauravshinde007/github-readme-stats)
+  [![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravshinde007 &theme=radical](https://github.com/sauravshinde007/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
