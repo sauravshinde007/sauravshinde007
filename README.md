@@ -14,6 +14,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sauravshinde007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
+# 📊 Leetcode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Saurav_san007)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sauravshinde007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
