@@ -1,4 +1,4 @@
-![Alt text](itch%20template%201.png)
+![Alt text](GithubBanner.jpg)
 
 - Software Engineer who is documenting and sharing his learnings in tech.<be>
 - Studying Information Technology at [Pune Institute Of Computer Technology](https://pict.edu/).<be>
