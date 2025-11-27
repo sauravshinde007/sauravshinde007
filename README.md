@@ -1,27 +1,33 @@
 ![GitHub Profile Banner](GithubBanner.jpg)
 
-## 💻 Tech Stack:
+## Stats:
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py,java,js,react,nodejs,express,mongodb,tailwind,html,css,unity,blender" alt="Tech Stack Icons: C++, C#, Lua, Python, Java, JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS, HTML, CSS, Unity, Blender" />
+<br/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Saurav's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sauravshinde007&theme=nord" />
 </a>
-
-## 📊 GitHub Stats:
+<br/>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=sauravshinde007&theme=nord&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Readme Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravshinde007&layout=donut&theme=nord&hide_border=true" height="180" alt="Top Langs" />
 </div>
 
-## 🏆 GitHub Trophies
+## Trophies
 
 ![](https://github-trophies.vercel.app/?username=sauravshinde007&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-## 📊 Leetcode Stats:
+## Tech Stack:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py,java,js,react,nodejs,express,mongodb,tailwind,html,css,unity,blender" alt="Tech Stack Icons: C++, C#, Lua, Python, Java, JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS, HTML, CSS, Unity, Blender" />
+</a>
+
+## Leetcode Stats:
 
 <img src="https://leetcard.jacoblin.cool/Saurav_san007" alt="Leetcode Stats" />
 
-## 💻 Featured Section
+## Featured Section
 
 <a href="https://www.youtube.com/watch?v=TQtAcKjTYUs">
   <img src="https://ytcards.demolab.com/?id=TQtAcKjTYUs&title=1+Year+Of+Learning+Game+Development&lang=en&timestamp=1729498589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="1 Year Of Learning Game Development" />
