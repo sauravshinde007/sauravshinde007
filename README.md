@@ -8,15 +8,18 @@
 
 ## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=sauravshinde007&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Readme Stats" />
-
-## 📊 Leetcode Stats:
-
-<img src="https://leetcard.jacoblin.cool/Saurav_san007" alt="Leetcode Stats" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravshinde007&theme=nord&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Readme Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravshinde007&layout=donut&theme=nord&hide_border=true" height="180" alt="Top Langs" />
+</div>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=sauravshinde007&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+## 📊 Leetcode Stats:
+
+<img src="https://leetcard.jacoblin.cool/Saurav_san007" alt="Leetcode Stats" />
 
 ## 💻 Featured Section
 
