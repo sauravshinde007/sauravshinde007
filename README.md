@@ -26,9 +26,6 @@
 <a href="https://www.youtube.com/watch?v=reFqOd-RNSo">
   <img src="https://ytcards.demolab.com/?id=reFqOd-RNSo&title=24+Hours+of+GameJam+(Hackathon)&lang=en&timestamp=1729498589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="24 Hours of GameJam (Hackathon)" />
 </a>
-<a href="https://www.youtube.com/watch?v=nnHR_s3ZJaA">
-  <img src="https://ytcards.demolab.com/?id=nnHR_s3ZJaA&title=Swamp-Master+a+2D+multiplayer+game+made+in+Unity&lang=en&timestamp=1717402589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Swamp-Master a 2D multiplayer game made in Unity" />
-</a>
 <a href="https://www.youtube.com/watch?v=59QWuITAndY">
   <img src="https://ytcards.demolab.com/?id=59QWuITAndY&title=My+favourite+OnePiece+Video+on+YT&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="The Breathtaking World of One Piece" />
 </a>
