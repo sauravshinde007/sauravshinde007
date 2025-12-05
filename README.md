@@ -2,16 +2,21 @@
 
 ## Stats:
 
-<br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Saurav's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sauravshinde007&theme=nord" />
-</a>
-<br/>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sauravshinde007&theme=nord&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Readme Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravshinde007&layout=donut&theme=nord&hide_border=true" height="180" alt="Top Langs" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauravshinde007&theme=nord_dark" />
+<p align="left">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sauravshinde007&theme=nord_dark" 
+    height="180"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sauravshinde007&theme=nord_dark" 
+    height="180"
+  />
+</p>
+<img 
+  src="https://streak-stats.demolab.com?user=sauravshinde007&theme=nord&hide_border=true"
+  height="170"
+/>
 
 ## Trophies
 
