@@ -1,5 +1,11 @@
 ![GitHub Profile Banner](GithubBanner.jpg)
 
+## Tech Stack:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py,java,js,react,nodejs,express,mongodb,tailwind,html,css,unity,blender" alt="Tech Stack Icons: C++, C#, Lua, Python, Java, JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS, HTML, CSS, Unity, Blender" />
+</a>
+
 ## Stats:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauravshinde007&theme=nord_dark" />
@@ -22,11 +28,6 @@
 
 ![](https://github-trophies.vercel.app/?username=sauravshinde007&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
-## Tech Stack:
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,py,java,js,react,nodejs,express,mongodb,tailwind,html,css,unity,blender" alt="Tech Stack Icons: C++, C#, Lua, Python, Java, JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS, HTML, CSS, Unity, Blender" />
-</a>
 
 ## Leetcode Stats:
 
