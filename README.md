@@ -35,6 +35,9 @@
 
 ## Featured Section
 
+<a href="https://www.youtube.com/watch?v=MET9pvOYt6A">
+  <img src="https://ytcards.demolab.com/?id=MET9pvOYt6A&title=My+Fedora+Linux+Rice+(Hyprland)&lang=en&timestamp=1729498589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="My Fedora Linux Rice (Hyprland)" />
+</a>
 <a href="https://www.youtube.com/watch?v=TQtAcKjTYUs">
   <img src="https://ytcards.demolab.com/?id=TQtAcKjTYUs&title=1+Year+Of+Learning+Game+Development&lang=en&timestamp=1729498589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="1 Year Of Learning Game Development" />
 </a>
