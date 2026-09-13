@@ -3,7 +3,7 @@
 ## Tech Stack:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,py,react,nodejs,express,mongodb,tailwind,html,css,docker,aws,unity,blender" alt="Tech Stack Icons: C++, C#, Lua, Python, Java, JavaScript, React, Node.js, Express, MongoDB, Tailwind CSS, HTML, CSS, Unity, Blender" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,py,react,nodejs,express,spring,mongodb,tailwind,html,css,docker,kubernetes,aws,grafana,prometheus,unity,blender" alt="Tech Stack Icons: C++, C#, Java, JavaScript, Python, React, Node.js, Express, Spring Boot, MongoDB, Tailwind CSS, HTML, CSS, Docker, Kubernetes, AWS, Grafana, Prometheus, Unity, Blender" />
 </a>
 
 ## Stats:
